@@ -33,3 +33,5 @@ The provided code is a Python script that performs an ARP poisoning attack on a 
 
 ## 7. Exception Handling:
     - The script handles keyboard interrupts (Ctrl+C) to gracefully terminate the ARP poisoning attack and restore the network configuration.
+## 8. File creation:
+    - A file "arper.pcap" is created after a successful run. This is where the captured packets are stored.
